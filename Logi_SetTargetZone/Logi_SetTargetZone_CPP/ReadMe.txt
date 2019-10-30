@@ -1,5 +1,5 @@
 ========================================================================
-    CONSOLE APPLICATION : Logi_SetTargetZone_Sample_CPP Project Overview
+    CONSOLE APPLICATION : Logi_SetTargetZone_CPP Project Overview
 ========================================================================
 
 AppWizard has created this Logi_SetTargetZone_Sample_CPP application for you.
